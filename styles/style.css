@@ -1,9 +1,15 @@
 h1 {
-color: yellow;
+    color: green;
 }
+
 p {
-color:blue;
+    color: blue;
 }
+
 table {
-background-color: lightblue;
+    background-color: red;
+}
+
+body {
+    background-color: beige;
 }
